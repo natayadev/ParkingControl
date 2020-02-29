@@ -1,2 +1,2 @@
-Práctica:
-Ejercicio de gestión de un servicio  de estacionamiento en Python
+Parking service management program:<br>
+-PYTHON
