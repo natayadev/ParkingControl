@@ -1,2 +1,2 @@
-Parking service management program:<br>
+Práctica: gestión de servicios de estacionamiento<br>
 -PYTHON
